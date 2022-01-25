@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "函数和递归", "函数和递归\函数和递归.vcxproj", "{043D5FD9-DD8A-401B-8C6A-273EE9D663C9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{043D5FD9-DD8A-401B-8C6A-273EE9D663C9}.Debug|Win32.ActiveCfg = Debug|Win32
+		{043D5FD9-DD8A-401B-8C6A-273EE9D663C9}.Debug|Win32.Build.0 = Debug|Win32
+		{043D5FD9-DD8A-401B-8C6A-273EE9D663C9}.Release|Win32.ActiveCfg = Release|Win32
+		{043D5FD9-DD8A-401B-8C6A-273EE9D663C9}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
